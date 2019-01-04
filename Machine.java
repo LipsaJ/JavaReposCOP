@@ -1,15 +1,18 @@
 
-public class Machine {
+public class Machine implements Info {
 	
-	protected String name = "Hi I am precious";
-	//this protected lets you access this variable anywhere in the package
+	//what it does is, when you implement info then java forces you to implement all the methods 
 	
-	public void startMach() {
-		System.out.println("Machine started!");
+	private int id = 7;
+	
+	public void start() {
+		System.out.println("Hi Iam Kaldev!" );
 	}
-	
-	public void stopMach() {
-		System.out.println("Machine Stop!");
+
+	@Override
+	public void showInfo() {
+		System.out.println("I a machine and my id is :" +id);
+		
 	}
 
 }
