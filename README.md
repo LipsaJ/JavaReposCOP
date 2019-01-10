@@ -1,5 +1,9 @@
 # JavaReposCOP
 caves of programming codes
+
+--09Jan2019
+Added Tutorial folder
+
 --06Jan2019
 today removed all the files so can kep them tutorails wise
 
