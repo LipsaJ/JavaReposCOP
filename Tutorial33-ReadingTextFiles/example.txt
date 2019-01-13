@@ -1,0 +1,16 @@
+3
+This is a file.
+This is line
+This is also a line 
+
+cat dog hat year
+
+love
+hapiness
+dove
+care
+
+lion
+Zebra
+
+and so on....
