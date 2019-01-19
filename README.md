@@ -1,5 +1,9 @@
 # JavaReposCOP
 caves of programming codes
+--git pro
+
+--19Jan2019
+diff arrayList
 
 --09Jan2019
 Added Tutorial folder
