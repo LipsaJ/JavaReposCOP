@@ -6,6 +6,9 @@ folder location:
 C:\Users\yashpal123\eclipse-workspace
 ---------------------
 
+--30Jan2019
+queues and iteration
+
 --25Jan2019
 arrayList and LinkedList
 --19Jan2019
